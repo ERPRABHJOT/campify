@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-campifyapp-dev-102733-authRole",
+      "UnauthRoleArn": "arn:aws:iam::805424415293:role/amplify-campifyapp-dev-102733-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::805424415293:role/amplify-campifyapp-dev-102733-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-campifyapp-dev-102733-deployment",
+      "UnauthRoleName": "amplify-campifyapp-dev-102733-unauthRole",
+      "StackName": "amplify-campifyapp-dev-102733",
+      "StackId": "arn:aws:cloudformation:us-east-1:805424415293:stack/amplify-campifyapp-dev-102733/5c2ed0e0-668c-11ed-a979-0eb7685d618f",
+      "AmplifyAppId": "d18w5jtvnxfqla"
+    },
+    "categories": {
+      "storage": {
+        "campifymobilestorage": {}
+      },
+      "auth": {
+        "campifyapp8d3d6d23": {
+          "userPoolId": "us-east-1_LabifA7Bx",
+          "userPoolName": "campify-dev-frontend",
+          "webClientId": "2sqo41chenqd86a0c4mbr3g1jp",
+          "nativeClientId": "7sn0ddq83dab1h5io79npcu78m",
+          "identityPoolId": "us-east-1:2a30ac6e-17d3-4166-821f-fa2842411bfa",
+          "identityPoolName": "amplify_backend_manager_d3h2xdy2hdtcff",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::805424415293:role/amplify-campifyapp-dev-102733-authRole",
+          "authRoleName": "amplify-campifyapp-dev-102733-authRole",
+          "unauthRoleArn": "arn:aws:iam::805424415293:role/amplify-campifyapp-dev-102733-unauthRole",
+          "unauthRoleName": "amplify-campifyapp-dev-102733-unauthRole"
+        }
+      }
+    }
+  }
+}

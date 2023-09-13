@@ -1,0 +1,13 @@
+{
+  "resourceName": "campifymobilestorage",
+  "policyUUID": "7d59a4ee",
+  "bucketName": "campify-mobile-app-storage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}

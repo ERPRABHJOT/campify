@@ -1,0 +1,6 @@
+module Pods_Campify_App {
+  umbrella header "Pods-Campify_App-umbrella.h"
+
+  export *
+  module * { export * }
+}
